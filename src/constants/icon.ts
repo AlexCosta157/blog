@@ -22,12 +22,12 @@ export const defaultFavicons: Favicon[] = [
 		sizes: "192x192",
 	},
 	{
-		src: "/favicon/favicon-dark-32.png",
+		src: "/favicon/robo-32.png",
 		theme: "dark",
 		sizes: "32x32",
 	},
 	{
-		src: "/favicon/favicon-dark-128.png",
+		src: "/favicon/robo-128.png",
 		theme: "dark",
 		sizes: "128x128",
 	},
